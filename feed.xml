@@ -3,10 +3,31 @@
     <title>FuVoicePack</title>
     <link href="https://blade2556.github.io/fuvoicepack/feed.xml" rel="self" />
     <link href="https://blade2556.github.io/fuvoicepack" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2021-08-24T16:59:14+08:00</updated>
     <author>
         <name>FuFan</name>
     </author>
     <id>https://blade2556.github.io/fuvoicepack</id>
 
+    <entry>
+        <title>FUck</title>
+        <author>
+            <name>FuFan</name>
+        </author>
+        <link href="https://blade2556.github.io/fuvoicepack/fuck.html"/>
+        <id>https://blade2556.github.io/fuvoicepack/fuck.html</id>
+
+        <updated>2021-08-24T16:59:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello AVBODY `UWUˊ
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello AVBODY</p>
+<p>`UWUˊ</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
