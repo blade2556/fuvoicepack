@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blade2556.github.io/fuvoicepack/sitemap.xml
